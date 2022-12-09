@@ -27,7 +27,7 @@ func main() {
 
 자주 사용되는 영문과 숫자는 1byte로 표기하고, 비교적 덜 사용되는 ASCII 문자 이외의 문자들은 byte를 더 소모해서 표기하는 방식이다. 유연하기 때문에 공간 절약이 가능하다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75d5b049-e655-498b-aa66-6225c7a0a720/Untitled.png)
+![utf-8](./asset/utf-8.png)
 
 ASCII 코드에 대응되는 문자들의 경우는 첫 bit가 0이다.
 
