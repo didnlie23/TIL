@@ -30,3 +30,7 @@ for i, c := range "go" {
 ```
 
 [More details about Strings and Runes](https://gobyexample.com/strings-and-runes)
+
+### Error Handling
+
+[Great Post about Error Handling](https://go.dev/blog/error-handling-and-go)
